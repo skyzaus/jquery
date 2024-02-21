@@ -1,0 +1,34 @@
+h1 {
+    text-align: center;
+}
+
+div {
+    margin-top: 1em;
+}
+
+.error {
+    color: crimson;
+}
+
+form {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    text-align: center;
+}
+
+.formbutton {
+    margin-left: 1em;
+    font-weight: bold;
+}
+
+.movie-details {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+}
+
+.rmvbutton {
+    margin-left: 1em;
+    font-weight: bold;
+    padding: 0em .75em;
+    color: red;
+}
